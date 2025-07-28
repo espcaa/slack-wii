@@ -1,0 +1,3 @@
+# Documentation of the http backend
+
+I'll try as much as possible to document routes here if i can remember to do it...
