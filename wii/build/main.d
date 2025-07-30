@@ -69,7 +69,8 @@ main.o: /Users/spectralo/slack-wii/wii/./main.c \
  /opt/devkitpro/libogc/include/wiiuse/wpad.h \
  /opt/devkitpro/libogc/include/wiiuse/wiiuse.h \
  /opt/devkitpro/libogc/include/bte/bte.h \
- /opt/devkitpro/libogc/include/bte/bd_addr.h
+ /opt/devkitpro/libogc/include/bte/bd_addr.h \
+ /Users/spectralo/slack-wii/wii/./assets/roboto_ttf.h
 /opt/devkitpro/portlibs/wii/include/grrlib.h:
 /opt/devkitpro/libogc/include/gccore.h:
 /opt/devkitpro/libogc/include/ogc/dsp.h:
@@ -141,3 +142,4 @@ main.o: /Users/spectralo/slack-wii/wii/./main.c \
 /opt/devkitpro/libogc/include/wiiuse/wiiuse.h:
 /opt/devkitpro/libogc/include/bte/bte.h:
 /opt/devkitpro/libogc/include/bte/bd_addr.h:
+/Users/spectralo/slack-wii/wii/./assets/roboto_ttf.h:
